@@ -7,10 +7,6 @@
 
 	written in Python Python 3.7.6
 
-	DO NOT USE FOR ILLEAGLL PURPOUSES I WILL NOT BE RESPONSIBLE
-
-	Hope you enjoy :)
-
 	-Joseph Marc Antony
 
 """
